@@ -332,7 +332,7 @@ $$ A(BC) =
 \end{pmatrix}
 $$
 
-### Con esta verificacion podemos confirmar que (AB)C = A(BC) y es aciosativa.
+### Con esta verificacion podemos confirmar que (AB)C  es igual que (AB)C.
 ---
 
 
